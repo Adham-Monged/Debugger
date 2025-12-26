@@ -1,4 +1,5 @@
-#Debugger
+Debugger
+
 A lightweight, beginner‑friendly debugging tool designed to help you understand errors, spot issues quickly, and learn how to fix them with clear explanations.
 
 This tool analyzes your code, highlights potential problems, and provides human‑readable guidance to help you improve your debugging skills and write cleaner, more reliable code.
